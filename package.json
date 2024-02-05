@@ -29,6 +29,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy":
+  "https://main--incandescent-taffy-74c839.netlify.app/",
+
   "eslintConfig": {
     "extends": [
       "react-app",
