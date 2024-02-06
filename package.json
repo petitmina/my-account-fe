@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://mina-my-account.netlify.app",
+
   "eslintConfig": {
     "extends": [
       "react-app",
