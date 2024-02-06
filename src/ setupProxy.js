@@ -6,7 +6,7 @@ module.exports = function(app) {
             target: 'https://main--incandescent-taffy-74c839.netlify.app',
             changeOrigin: true,
             pathRewrite: {
-                '^/api': '' // URL ^/api -> 공백 변경
+                '^/api': '' 
             }
         })
     );
