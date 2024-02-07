@@ -5,9 +5,6 @@ module.exports = function(app) {
         createProxyMiddleware('/api', {
             target: 'https://my-account.ap-northeast-2.elasticbeanstalk.com ',
             changeOrigin: true,
-            pathRewrite: {
-                '^/api': '' 
-            }
         })
     );
 };
