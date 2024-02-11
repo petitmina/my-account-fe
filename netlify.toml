@@ -1,0 +1,9 @@
+[[redirects]]
+form = "https://mina-my-account.netlify.app/rigister"
+to = "https://mina-my-account.netlify.app"
+status = 200
+
+[[redirects]]
+form = "https://mina-my-account.netlify.app/login"
+to = "https://mina-my-account.netlify.app"
+status = 200
